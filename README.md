@@ -3,7 +3,10 @@
 **Forecastly** is a sleek and modern weather web application that delivers real-time weather updates for any city across the globe using the **Open-Meteo API**. Designed with a responsive UI and rich animations, it offers voice-assisted forecasts, intelligent city suggestions, and dynamic visuals for an engaging experience.
 
 ---
-
+<div align="center">
+    <a href="https://trendshift.io/repositories/124"  target="_blank"><img src="https://trendshift.io/api/badge/repositories/124" alt="roboflow%2Fsupervision | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+  </div>
+---
 ## 🚀 Features
 
 - 🌍 **Search by City Name** – Real-time suggestions while typing  
